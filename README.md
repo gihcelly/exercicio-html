@@ -1,3 +1,4 @@
 Visualização
 
-https://github.com/gihcelly/primeira-pagina.git
+
+https://gihcelly.github.io/primeira-pagina/
