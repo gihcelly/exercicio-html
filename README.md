@@ -1,3 +1,3 @@
 Visualização
 
-https://gihcelly.github.io/exercicio-html/
+https://github.com/gihcelly/primeira-pagina
